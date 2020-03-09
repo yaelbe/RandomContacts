@@ -5,4 +5,8 @@ This applicatin generates randomized users, using https://randomuser.me API and 
 them on screen.
 By taping a contact, it display the selected contact info and avatar
 
-![Image description](https://raw.githubusercontent.com/yaelbe/RandomContacts/master/1screen.png)
+![alt text](https://github.com/yaelbe/RandomContacts/blob/master/ReadmeImages/screen1.png)
+
+![alt text](https://github.com/yaelbe/RandomContacts/blob/master/ReadmeImages/screen1.png)
+
+
